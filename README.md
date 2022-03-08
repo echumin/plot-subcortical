@@ -6,4 +6,4 @@ Evgeny J. Chumin, Joshua Faskowitz, Farnaz Zamani Esfahlani, Youngheun Jo, Haily
 Cortico-subcortical interactions in overlapping communities of edge functional connectivity
 NeuroImage Volume 250, 15 April 2022, 118971 https://doi.org/10.1016/j.neuroimage.2022.118971
 
-https://github.com/echumin/plot-subcortical/blob/main/example.png
+![alt text](https://github.com/echumin/plot-subcortical/blob/main/example.png)
