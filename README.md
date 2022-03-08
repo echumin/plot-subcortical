@@ -13,4 +13,5 @@ Example Output:
 ![alt text](https://github.com/echumin/plot-subcortical/blob/main/example.png)
 
 Parcelation image taken from: https://github.com/yetianmed/subcortex/tree/master/Group-Parcellation/3T/Subcortex-Only
+
 Standard space image taken from FSL standards.
