@@ -9,4 +9,5 @@ NeuroImage Volume 250, 15 April 2022, 118971 https://doi.org/10.1016/j.neuroimag
 Example Usage: https://github.com/echumin/plot-subcortical/blob/main/example.m
 
 Example Output:
+
 ![alt text](https://github.com/echumin/plot-subcortical/blob/main/example.png)
